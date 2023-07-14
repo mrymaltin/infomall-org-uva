@@ -9,17 +9,14 @@ description: Visiting Graduate Researcher
 
 ## Biography
 
-Meryem Altin Karagoz joined Computer Engineering department of Sivas Cumhuriyet University Turkey, in 2016, as a Research Assistant. She received a master’s
-degree in Computer Engineering at Erciyes University in 2019 and is currently Ph.D. student in Computer Engineering at Erciyes University. 
-She  is awarded a grant by The Scientific and Technological Research Council of Turkey (TUBITAK) to perform research at University of Virginia. Her research interests are artificial intelligence, deep learning, and medical image analysis.
+Meryem Altin Karagoz joined Computer Engineering department of Sivas Cumhuriyet University Turkey, in 2016, as a Research Assistant. She received a master’s degree in Computer Engineering at Erciyes University in 2019 and is currently Ph.D. student in Computer Engineering at Erciyes University.  She  is awarded a grant by The Scientific and Technological Research Council of Turkey (TUBITAK) to perform research at University of Virginia. Her research interests are artificial intelligence, deep learning, and medical image analysis.
 
 ## References 
 
-* KARAGOZ, M. A., AKAY, B., BASTURK, A., KARABOGA, D., & NALBANTOGLU, O. U., (2023). [An unsupervised transfer learning model based on convolutional auto encoder for non-alcoholic steatohepatitis activity scoring and fibrosis staging of liver histopathological images](https://link.springer.com/article/10.1007/s00521-023-08252-2). Neural Computing and Applications , vol.35, no.14, 10605-10619. 
+* KARAGOZ, M. A., AKAY, B., BASTURK, A., KARABOGA, D., & NALBANTOGLU, O. U., (2023). [An unsupervised transfer learning model based on convolutional auto encoder for non-alcoholic steatohepatitis activity scoring and fibrosis staging of liver histopathological images](https://link.springer.com/article/10.1007/s00521-023-08252-2). Neural Computing and Applications, vol.35, no.14, 10605-10619. 
 * KARAGOZ, M. A., KARABOGA, D., AKAY, B., BASTURK, A., & Nalbantoglu, O. U., (2022). [Deep Learning Based Steatosis Quantification of Liver Histopathology Images Using Unsupervised Feature Extraction](https://ieeexplore.ieee.org/document/9873795). 2nd International Conference on Computing and Machine Intelligence, ICMI 2022, İstanbul, Turkey 
 * KARAGOZ, M. A., & NALBANTOGLU, O. U., (2021). [Taxonomic classification of metagenomic sequences from Relative Abundance Index profiles using deep learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001361). Biomedical Signal Processing and Control , vol.67. 
 * Karagoz, M. A., & Nalbantoglu, O. U., (2019). [RAPID PATHOGEN DETECTION OF USING CONVOLUTIONAL NEURAL NETWORKS ON METAGENOMICS DATA. HIBIT 19- THE 12TH INTERNATIONAL SYMPOSIUM ON HEALTH INFORMATICS AND BIOINFORMATICS (pp.130-131)](https://www.ibg.edu.tr/Uploads/event_image/hibit_abstractbook.pdf). İzmir, Turkey 
-* Karagoz, M. A., & Nalbantoglu, O. U., (2018). [TAXONOMIC ANALYSIS OF MICROBIOTA DATA BASED ON RELATIVE ABUNDANCE INDEX ALGORITHM](https://www.tmc-online.org/Uploads/Editor/files/Uluslararasi_%20XXXVIII_TMC_Kongresi_Konusma_Ozetleri_ve_Bildiri_Kitabi_(2018).pdf). Uluslararası XXXVIII. TMC Kongresi (pp.381-382). Antalya, Turkey
 
 ## Project 
 
